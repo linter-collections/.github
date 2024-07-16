@@ -1,3 +1,3 @@
-## Linter
+# Linter
 
-## Formatter
+# Formatter
